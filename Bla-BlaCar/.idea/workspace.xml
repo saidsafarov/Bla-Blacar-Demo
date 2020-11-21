@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="552dd494-9a56-46b4-8eb0-2ff8a355d39e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hznS9wrb0X2M8wipG5upDbG6SZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="user.C" />
+      <module name="Bla-BlaCar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Bla-BlaCar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="user.Test" />
+      <module name="Bla-BlaCar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.C" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="552dd494-9a56-46b4-8eb0-2ff8a355d39e" name="Default Changelist" comment="" />
+      <created>1601022785817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601022785817</updated>
+      <workItem from="1601022789282" duration="2289000" />
+      <workItem from="1601025642782" duration="412000" />
+      <workItem from="1601026330351" duration="1000" />
+      <workItem from="1601026353859" duration="9000" />
+      <workItem from="1601026398559" duration="2000" />
+      <workItem from="1601026413093" duration="17000" />
+      <workItem from="1601026508199" duration="101000" />
+      <workItem from="1601027725842" duration="115000" />
+      <workItem from="1601029622385" duration="2650000" />
+      <workItem from="1601034346013" duration="50000" />
+      <workItem from="1601051203150" duration="1890000" />
+      <workItem from="1601130722713" duration="762000" />
+      <workItem from="1601148558074" duration="1622000" />
+      <workItem from="1601189904077" duration="2155000" />
+      <workItem from="1601229735198" duration="2812000" />
+      <workItem from="1601286940200" duration="8000" />
+      <workItem from="1601362855014" duration="3998000" />
+      <workItem from="1601383400837" duration="2772000" />
+      <workItem from="1601396513242" duration="2726000" />
+      <workItem from="1601541991915" duration="916000" />
+      <workItem from="1601627880503" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser" timestamp="1601384609736">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="58" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1601384609736" />
+    <state width="1237" height="532" key="GridCell.Tab.0.bottom" timestamp="1601542913743">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="532" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1601542913743" />
+    <state width="1237" height="532" key="GridCell.Tab.0.center" timestamp="1601542913743">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="532" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1601542913743" />
+    <state width="1237" height="532" key="GridCell.Tab.0.left" timestamp="1601542913743">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="532" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1601542913743" />
+    <state width="1237" height="532" key="GridCell.Tab.0.right" timestamp="1601542913743">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="532" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1601542913743" />
+    <state x="91" y="0" key="new project wizard" timestamp="1601628190537">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1601628190537" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1601148727618">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1601148727618" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1601397027472">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1601397027472" />
+  </component>
+</project>
